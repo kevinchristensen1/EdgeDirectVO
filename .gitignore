@@ -1,0 +1,15 @@
+build/
+Eigen/
+model/
+.vscode/
+*.DS_Store
+rgbd_dataset*
+*.pyc
+rgbd_dataset_freiburg1_desk
+rgbd_dataset_freiburg2_xyz
+rgbd_dataset_freiburg1_desk2
+rgbd_dataset_freiburg1_plant
+rgbd_dataset_freiburg1_room
+rgbd_dataset_freiburg1_rpy
+rgbd_dataset_freiburg1_xyz
+rgbd_dataset_freiburg2_large_no_loop
